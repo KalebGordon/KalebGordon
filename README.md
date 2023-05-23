@@ -31,6 +31,9 @@ You can learn more about Synthetaic via our [website](https://www.synthetaic.com
 - **Tools and Libraries:** Pandas, MatPlotLib, AWS, PySpark, Scikit-Learn, MongoDB, Beautiful Soup, Flask, Splinter, Tensorflow, SQLite
 - **General Skills:** Data Analysis, Data Visualization, ETL, Web Scraping, Big Data, Machine Learning, Natural Language Processing, Neural Networks
 
+## Statosphere
+I am currently in the process of creating a startup. This startup, Statosphere, aims to assist small businesses or individuals in analyzing their data. The services include data analysis, consultation, predictive analysis, and natural language processing. This is a work in progress. If you would like to learn more, you can visit the startup's dedicated [section](https://kalebgordondata.com/#statosphere) within my portfolio while I work on setting up its own website. 
+
 ## Get in Touch 📫
 - LinkedIn: [Kaleb Gordon](https://www.linkedin.com/in/your-linkedin-profile)
 - Email: [kalebparkergordon@gmail.com](kalebparkergordon@gmail.com)
